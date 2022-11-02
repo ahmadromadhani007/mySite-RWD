@@ -26,10 +26,6 @@
                                 <div class="card-body text-center">
                                     <h4 class="text-center"><b>Design Web</b></h4>
                                     <span class="badge bg-gradient-success">0 task</span>
-                                    <div class="portfolio-links">
-                                        <a href="assets/img/portfolio/portfolio-1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="webDesain"><i class="bx bx-plus"></i></a>
-                                        <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-                                    </div>
                                 </div>
                             </div>
                         </a>
@@ -50,17 +46,13 @@
                                 <div class="card-body text-center">
                                     <h4 class="text-center"><b>Javascript</b></h4>
                                     <span class="badge bg-gradient-success">0 task</span>
-                                    <div class="portfolio-links">
-                                        <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="JS"><i class="bx bx-plus"></i></a>
-                                        <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-                                    </div>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <!-- PHP -->
                     <div class="col-xl-3 col-lg-3 col-md-3 ">
-                        <a href="index.php?materi=php">
+                        <a href="index.php?hal=php-details">
                             <div class="card z-index-0 mb-4">
                                 <div class="card-header text-center pt-4">
                                 </div>
@@ -74,10 +66,6 @@
                                 <div class="card-body text-center">
                                     <h4 class="text-center"><b>PHP</b></h4>
                                     <span class="badge bg-gradient-success">5 task</span>
-                                    <div class="portfolio-links">
-                                        <a href="assets/img/portfolio/portfolio-3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PhP"><i class="bx bx-plus"></i></a>
-                                        <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-                                    </div>
                                 </div>
                             </div>
                         </a>
@@ -144,7 +132,7 @@
                     </div>
                     <!-- Laravel -->
                     <div class="col-xl-3 col-lg-3 col-md-3">
-                        <a href="index.php?materi=laravel">
+                        <a href="index.php?hal=laravel-details">
                             <div class="card z-index-0 mb-4">
                                 <div class="card-header text-center pt-4">
                                 </div>
